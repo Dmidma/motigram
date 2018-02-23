@@ -1,0 +1,153 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://example.com/MaterialIcons-Regular.eot); /* For IE6-8 */
+  src: local('Material Icons'),
+    local('MaterialIcons-Regular');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+
+.login {
+  background: #eceeee;
+  border: 1px solid #42464b;
+  border-radius: 6px;
+  height: 100%;
+  padding: 20px;
+  margin: 20px auto 0;
+  width: 298px;
+}
+.toggle {
+  background: url(http://i.minus.com/ibitS19pe8PVX6.png) no-repeat;
+  display: block;
+  height: 16px;
+  margin-top: -20px;
+  width: 87px;
+  z-index: -1;
+}
+
+
+.switch {
+  color: #7f7f7f;
+  display: inline-block;
+  float: right;
+  font: 12px/1 sans-serif;
+  left: -19px;
+  position: relative;
+  text-decoration: none;
+  top: 5px;
+  transition: color .4s;
+}
+.switch:hover { color: #3b3b3b }
+
+
+
+.feed-page {
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40%
+}
+
+.some-space {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.sticky-toolbar {
+    width: 100%;
+    top: 0;
+    position: fixed;
+    overflow: hidden;
+    z-index: 1;
+}
+
+
+
+.upload-image-form {
+    padding: 20px;
+    margin: 0 auto;
+}
+
+
+
+.upload-image-input {
+    min-width: 60px;
+    height: 200px;
+    background-color: white;
+    background-image: url('./assets/upload_image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+
+.update-image-input {
+    min-width: 60px;
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    background-image: url('./assets/update-image-icon.png');
+    background-size: 32px 32px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+
+.take-the-line {
+    display: inline;
+}
