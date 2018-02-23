@@ -1,5 +1,6 @@
 /node_modules
 
+mongodb-data/
 
 # vim files
 .swp
