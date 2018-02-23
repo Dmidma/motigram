@@ -10,7 +10,7 @@ This project contains two main folders:
 
 ### backend
 
-The backend is an `expressJs` server with `MongoDB` as database.
+The backend is an `expressJs` server with `MongoDB` as database.  
 
 The database will use two collections:
 
