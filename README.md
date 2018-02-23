@@ -36,7 +36,7 @@ In this section I will include the main interactions with the website.
 #### Login/Signup
 
 
-![login singup](./readme-images/login_singup.gif)
+![login singup](./readme-images/login_signup.gif)
 
 This is very basic, where we have a box of signup and login.
 
