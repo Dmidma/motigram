@@ -96,8 +96,8 @@ Now, we need to run the frontend by going to its corresponding directory, and ex
 
 ## Author
 
-This project was done by Oussema Hidri as a task for an internship at Motius.  
+This project was done by Oussema Hidri.  
 Email: d.oussema.d@gmail.com
 
-Hope you like the work and looking forward to talking to you.  
+If you have any remarks concerning the project, feel free to send me an email =D
 Thank you.
